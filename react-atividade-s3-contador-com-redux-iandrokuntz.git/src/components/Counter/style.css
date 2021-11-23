@@ -1,0 +1,12 @@
+button{
+    margin: 10px;
+    width: 100px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+    height: 25px;
+    border-radius: 10px;
+}
+h1{
+    color: lightcoral;
+}
